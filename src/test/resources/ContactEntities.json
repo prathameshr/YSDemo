@@ -1,0 +1,29 @@
+[
+	{
+		"_class": "com.ys.entity.Contact",
+		"id": 3,
+		"firstName": "Bruce",
+		"lastName": "Wayne",
+		"phoneNumber": "555555555",
+		"address": "Dublin",
+		"emailAddress": "hero@gmail.com"
+	},
+	{
+		"_class": "com.ys.entity.Contact",
+		"id": 4,
+		"firstName": "Bruce",
+		"lastName": "Banner",
+		"phoneNumber": "89797972",
+		"address": "London",
+		"emailAddress": "smash@gmail.com"
+	},
+	{
+		"_class": "com.ys.entity.Contact",
+		"id": 4,
+		"firstName": "Tony",
+		"lastName": "Banner",
+		"phoneNumber": "89797972",
+		"address": "London",
+		"emailAddress": "smash@gmail.com"
+	}
+]
